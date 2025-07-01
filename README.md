@@ -1,16 +1,25 @@
-## Hi there 👋
+# 🌿 MintBanshee | Web & App Development Student  
 
-<!--
-**mintbanshee/mintbanshee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there! I'm Lexy — aka **MintBanshee** — a curious soul on a coding adventure 💻✨  
+I started my journey in May and I'm already diving deep into the magical world of design and development, one spell (or `git push`) at a time.
 
-Here are some ideas to get you started:
+## 🎨 What I’ve Learned So Far
+- 🧠 UI/UX Design (aesthetics + usability = 💖)
+- 💻 Navigating the digital forest that is **Visual Studio Code**
+- 🌙 Markdown magic (with help from my sidekick, Luna the AI!)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ Current Focus
+- Learning front-end languages and tools  
+- Building beautiful and functional projects  
+- Organizing my life with custom folder icons (seriously, it’s a vibe)
+
+## 🌸 Fun Facts
+- I’m a stay-at-home mama by day, magical coder by night  
+- I love cozy games, dreamy designs, and moonlit motivation  
+- Favorite catchphrase: *“In the name of the moon, I’ll format you!”*
+
+## ☕ Let’s Connect
+- GitHub: [@mintbanshee](https://github.com/mintbanshee)
+
+---
+
