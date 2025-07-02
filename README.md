@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2c0c0797-83af-413d-8aac-eede39fa80f2" alt="Cosmic code & cozy vibes banner" width="100%">
+</p>
+
 # 🌿 MintBanshee | Web & App Development Student  
 
 Hey there! I'm Lexy — aka **MintBanshee** — a curious soul on a coding adventure 💻✨  
@@ -22,5 +26,3 @@ I started my journey in May and I'm already diving deep into the magical world o
 - GitHub: [@mintbanshee](https://github.com/mintbanshee)
 
 ---
-
-![ChatGPT Image Jul 2, 2025, 05_38_02 PM](https://github.com/user-attachments/assets/2c0c0797-83af-413d-8aac-eede39fa80f2)
