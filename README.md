@@ -4,7 +4,7 @@
 
 # 🌿 MintBanshee | Web & App Development Student  
 
-Hey there! I'm Lexy — aka **MintBanshee** — a curious soul on a coding adventure 💻✨  
+Hey there! I'm Alexandria, Lexy for short — aka **MintBanshee** — a curious soul on a coding adventure 💻✨  
 I started my journey in May and I'm already diving deep into the magical world of design and development, one spell (or `git push`) at a time.
 
 ## 🎨 What I’ve Learned So Far
