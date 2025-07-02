@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3adb2f34-4d2e-4a31-87f1-35f0c389b60d" alt="Cosmic code & cozy vibes banner" width="100%">
+  <img src="https://github.com/user-attachments/assets/2f847bdc-c4f4-4d85-9a30-326c157d50f5" alt="Cosmic code & cozy vibes banner" width="100%">
 </p>
 
 # 🌿 MintBanshee | Web & App Development Student  
