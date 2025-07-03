@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/26f465d5-e08a-4411-9003-25356661bb54" alt="Cosmic code & cozy vibes banner" width="100%">
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&weight=500&pause=1500&color=88B892&center=true&vCenter=true&width=1000&lines=Dev+Student.+Mama.+Retired+Chainmaille+Artisan.+Coffee+Addict.+Moonlit+Coder.)](https://github.com/mintbanshee)
+
+
+
 
 # 🌿 MintBanshee | Web & App Development Student  
 
