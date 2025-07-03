@@ -1,4 +1,9 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a8febf7a-fd8b-40e6-b9f6-d310ea6de894" alt="Cosmic code & cozy vibes banner" width="100%">
+</p>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&weight=500&pause=1500&color=88B892&center=true&vCenter=true&width=1000&lines=Dev+Student.+Mama.+Retired+Chainmaille+Artisan.+Coffee+Addict.+Moonlit+Coder.)](https://github.com/mintbanshee)
+
 
 
 
