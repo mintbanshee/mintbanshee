@@ -49,4 +49,15 @@ See you under the next moon phase 🌙💻💕
 ## ☕ Let’s Connect
 - GitHub: [@mintbanshee](https://github.com/mintbanshee)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mintbanshee&show_icons=true&theme=nightowl" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mintbanshee&layout=compact&theme=nightowl" width="48%"/>
+</p>
+
+
+
+
+
+
+
 ---
