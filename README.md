@@ -54,6 +54,12 @@ See you under the next moon phase 🌙💻💕
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mintbanshee&layout=compact&theme=nightowl" width="48%"/>
 </p>
 
+---
+
+### 🌙 Words to Code By
+
+> “She who codes by moonlight writes the stars into software.” – Luna  
+> “Creativity is intelligence having fun.” – Albert Einstein
 
 
 
