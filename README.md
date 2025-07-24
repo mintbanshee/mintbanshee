@@ -73,15 +73,12 @@ Hi, I'm Alexandria — or Lexy for short — a web and app development student w
 ---
 
 ## 🌙 Words to Code By
-> “She who codes by moonlight writes the stars into software.” – Luna  
 > “Creativity is intelligence having fun.” – Albert Einstein
 
 ---
 
 🌌 Thanks for stopping by my corner of the GitHub galaxy!  
 I hope your code compiles clean, your coffee stays warm, and your creativity never runs out ✨  
-I’m always learning, building, and growing as a developer in training.
 
-Feel free to explore my projects [here on GitHub](https://github.com/mintbanshee) — once everything’s updated 😅  
-And don’t hesitate to say hi!
+
 
