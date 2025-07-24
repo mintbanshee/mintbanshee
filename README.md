@@ -60,8 +60,6 @@ Hi, I'm Alexandria — or Lexy for short — a web and app development student w
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-[![Portfolio](https://img.shields.io/badge/Visit-Portfolio-green?style=flat-square&logo=githubpages&logoColor=white)](https://mintbanshee.github.io/)
-
 
 ---
 
