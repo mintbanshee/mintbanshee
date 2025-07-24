@@ -75,15 +75,3 @@ And don’t hesitate to say hi!
 </p>
 
 ---
-
-### 🌙 Words to Code By
-
-> “She who codes by moonlight writes the stars into software.” – Luna  
-> “Creativity is intelligence having fun.” – Albert Einstein
-
-
-
-
-
-
----
