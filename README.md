@@ -15,39 +15,59 @@
 
 
 
-# 🌿 Alexandria | Web & App Development Student  
+# 🌿 Alexandria | Web & App Development Student
 
-Hey there! I'm MintBanshee — aka Alexandria (or Lexy for short) — a curious soul on a coding adventure 💻✨  
-I started my journey in May and I'm already diving deep into the magical world of design and development, one spell (or `git push`) at a time.
-
-### 🌿 What I’ve Learned So Far
-- 🌸 **UI/UX Design** (aesthetics + usability = 💖)  
-- 🧭 **Navigating the digital forest** that is Visual Studio Code  
-- ✨ **Markdown magic** (with help from my sidekick, Luna the AI!)
-
-### 📚 Up Next on My Learning Path
-- 💻 HTML, CSS, and JavaScript basics  
-- 🌀 Exploring frameworks like React and Angular  
-- 🎨 Getting even better at UI/UX design  
-- 🌐 Building my first personal website and portfolio  
-- 🧙‍♀️ Continuing my Markdown mastery (with Luna, of course!)
-
-### 🎀 Fun Facts
-- 🌙 I’m a proud **Moonie** — magical girls and cosmic sparkle fuel my soul  
-- ☕ I run on **coffee, candy, and curiosity** (and yes, it's a potent combo)  
-- ⛓️ I used to be a **chainmaille artisan** — crafting one shiny ring at a time  
-- 🎮 When I’m not coding, I love **Stardew Valley** and cozy games  
-- 🌿 My aesthetic is a blend of **celestial tech + plant parent vibes**
+Hi, I'm Alexandria — or Lexy for short — a web and app development student with a growing passion for clean code and thoughtful design. I began my journey in May 2025 and I’m currently exploring the foundations of front-end development, UI/UX, and all things GitHub.
 
 ---
 
-### 🌌 Thanks for stopping by my corner of the GitHub galaxy!  
+## 🌿 What I’ve Learned So Far
+- 🌸 UI/UX Design (aesthetics + usability = 💖)
+- 🧭 Navigating the digital forest that is VS Code
+- 🔄 Version Control & Collaboration
+
+---
+
+## 🚧 What I’m Currently Learning
+- ☕ Java Development
+
+### 🎯 Current Missions
+- ✨ Refresh my GitHub profile
+- 🧰 Update my portfolio site
+
+---
+
+## 📚 Up Next on My Learning Path
+- 💻 HTML, CSS, and JavaScript
+- 🌀 Exploring frameworks like React and Angular
+- 🎨 Advancing my UI/UX design skills
+- 🌐 Building my personal website and portfolio
+- 🧙‍♀️ Deepening my Markdown and documentation mastery
+
+---
+
+## 🎀 A Little About Me
+- ⛓️ Former chainmaille artisan — detail-oriented by nature
+- 🎮 Cozy games like Stardew Valley keep me inspired
+- 🌱 Love blending creativity and code to create thoughtful digital experiences
+- 🧸 My style leans cozy, minimal, and a little bit nerdy
+
+---
+
+## 🌌 Thanks for Stopping By!
 I hope your code compiles clean, your coffee stays warm, and your creativity never runs out ✨  
-See you under the next moon phase 🌙💻💕
+I’m always learning, building, and growing as a developer in training.
 
+Feel free to explore my projects [here on GitHub](https://github.com/mintbanshee) — once everything’s updated 😅  
+And don’t hesitate to say hi!
 
-## ☕ Let’s Connect
-- GitHub: [@mintbanshee](https://github.com/mintbanshee)
+---
+
+## 🌙 Words to Code By
+> “She who codes by moonlight writes the stars into software.”  
+> “Creativity is intelligence having fun.” — Albert Einstein
+
+---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mintbanshee&show_icons=true&theme=nightowl" width="48%"/>
