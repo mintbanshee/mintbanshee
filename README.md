@@ -65,9 +65,7 @@ Hi, I'm Alexandria — or Lexy for short — a web and app development student w
 ## 💫 Stats & Activity
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mintbanshee&show_icons=true&theme=tokyonight&hide_title=true&hide=stars&custom_title=Alexandria%20McQueen%27s%20GitHub%20Stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mintbanshee&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mintbanshee&show_icons=true&theme=tokyonight&hide_title=true&hide=stars&custom_title=Alexandria%20McQueen%27s%20GitHub%20Stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mintbanshee&layout=compact&theme=tokyonight)
 
 </div>
 
