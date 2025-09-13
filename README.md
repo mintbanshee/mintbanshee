@@ -22,16 +22,18 @@ Hi, I'm Alexandria — or Lexy for short — a web and app development student w
 
 ## 🌿 What I’ve Learned So Far
 - 🌸 UI/UX Design (aesthetics + usability = 💖)  
-- 🧭 Navigating the digital forest that is VS Code  
-- 🔄 Version Control & Collaboration  
+- 🌲 Navigating the digital forest that is VS Code  
+- 🧩 Version Control & Collaboration
+- 🦅 Swift (Definitely NOT my favourite)
+- ☕ Java (Currently my favourite!)  
 
 ---
 
 ## 🚧 What I’m Currently Learning
-- ☕ Java Development  
+- 🎨 Graphical Design  
 
 ### 🎯 Current Missions
-- ✨ Refresh my GitHub profile  
+- ✨ Weekly Java side quests to stay fresh with it  
 - 🧰 Update my portfolio site  
 
 ---
