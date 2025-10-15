@@ -34,8 +34,9 @@ Hi, I'm Alexandria — or Lexy for short — a web and app development student w
 - 💻 HTML & CSS
 
 ### 🎯 Current Missions
-- ✨ Weekly Java side quests to stay fresh with it  
-- 🧰 Update my portfolio site  
+- ✨ Weekly Java side quests to stay fresh with it 🔁
+- 🧰 Update my portfolio site 🔁
+- 📨 Apply to Google for Internship next summer! ✅
 
 ---
 
