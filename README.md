@@ -25,12 +25,13 @@ Hi, I'm Alexandria — or Lexy for short — a web and app development student w
 - 🌲 Navigating the digital forest that is VS Code  
 - 🧩 Version Control & Collaboration
 - 🦅 Swift (Definitely NOT my favourite)
-- ☕ Java (Currently my favourite!)  
+- ☕ Java (Currently my favourite!)
+- 🎨 Graphical Design 
 
 ---
 
 ## 🚧 What I’m Currently Learning
-- 🎨 Graphical Design  
+- 💻 HTML & CSS
 
 ### 🎯 Current Missions
 - ✨ Weekly Java side quests to stay fresh with it  
@@ -39,7 +40,7 @@ Hi, I'm Alexandria — or Lexy for short — a web and app development student w
 ---
 
 ## 📚 Up Next on My Learning Path
-- 💻 HTML, CSS, and JavaScript  
+- 💻 JavaScript  
 - 🌀 Exploring frameworks like React and Angular  
 - 🎨 Advancing my UI/UX design skills  
 - 🌐 Building my personal website and portfolio  
