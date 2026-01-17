@@ -81,8 +81,8 @@ Hi, I'm Alexandria, a web and app development student with a growing passion for
 
 ## 💫 Stats & Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mintbanshee&show_icons=true&theme=tokyonight&hide_title=true&hide=stars&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mintbanshee&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mintbanshee&show_icons=true&theme=tokyonight&hide_title=true&hide=stars&count_private=true&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mintbanshee&layout=compact&theme=tokyonight&cache_seconds=86400" />
 </div>
 
 ---
