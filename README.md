@@ -32,12 +32,13 @@ Hi, I'm Alexandria, a web and app development student with a growing passion for
 - 💻 JavaScript
 - 🐧 Linux
 - 🌐 WordPress
+- ⚙️ PHP
+- 🗄️ MySQL 
 
 ---
 
 ## 🚧 What I’m Currently Learning
-- ⚙️ PHP
-- 🗄️ MySQL 
+- 🅰️ Angular
 
 
 ### 🎯 Current Missions
